@@ -1,0 +1,7 @@
+.fable
+node_modules
+obj
+packages
+paket-files
+bundle.js
+bin
